@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @BrickSoup
-- 🌱 I’m currently learning HTML, Java
+- 🌱 I’m currently learning Java, C++
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I'm a minor (Don't contact me)
